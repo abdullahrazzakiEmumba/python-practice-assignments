@@ -1,4 +1,3 @@
-import csv
 try:
     address_book = []
     while True:
